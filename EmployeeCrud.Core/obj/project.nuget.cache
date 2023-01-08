@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUviGu0VbAG0fzoVjlcTrR/El7mxkw4DsygmyZy1fmhMUv5cJ0/5QVp7IxkhX5BNtdYKyVar7fHaNrpLpRUDsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neom-Tech\\source\\repos\\EmplyeeCrudByCleanArchit\\EmployeeCrud.Core\\EmployeeCrud.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neom-Tech\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Neom-Tech\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Neom-Tech\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Neom-Tech\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Neom-Tech\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

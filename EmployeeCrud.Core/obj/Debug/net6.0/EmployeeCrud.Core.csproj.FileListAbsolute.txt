@@ -1,0 +1,12 @@
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\bin\Debug\net6.0\EmployeeCrud.Core.deps.json
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\bin\Debug\net6.0\EmployeeCrud.Core.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\bin\Debug\net6.0\EmployeeCrud.Core.pdb
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.csproj.AssemblyReference.cache
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.AssemblyInfoInputs.cache
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.AssemblyInfo.cs
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\refint\EmployeeCrud.Core.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\EmployeeCrud.Core.pdb
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmployeeCrud.Core\obj\Debug\net6.0\ref\EmployeeCrud.Core.dll
