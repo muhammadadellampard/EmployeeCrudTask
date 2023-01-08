@@ -1,0 +1,17 @@
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmplyeeCrud.Services.deps.json
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmplyeeCrud.Services.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmplyeeCrud.Services.pdb
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmployeeCrud.Core.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmplyeeCrud.Infrastructure.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmployeeCrud.Core.pdb
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\bin\Debug\net6.0\EmplyeeCrud.Infrastructure.pdb
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.csproj.AssemblyReference.cache
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.AssemblyInfoInputs.cache
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.AssemblyInfo.cs
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.csproj.CoreCompileInputs.cache
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.csproj.CopyComplete
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\refint\EmplyeeCrud.Services.dll
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\EmplyeeCrud.Services.pdb
+C:\Users\Neom-Tech\source\repos\EmplyeeCrudByCleanArchit\EmplyeeCrud.Services\obj\Debug\net6.0\ref\EmplyeeCrud.Services.dll
